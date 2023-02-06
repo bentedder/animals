@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <Wrap>
-      <h1>Guess the animal</h1>
+      <h1>Guess the Animal!</h1>
       <Button variant="contained">Start!</Button>
     </Wrap>
   );
